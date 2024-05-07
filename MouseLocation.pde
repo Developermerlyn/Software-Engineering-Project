@@ -3,7 +3,8 @@ void updateMousePos() {
   mousePos.x = mouseX;
   mousePos.y = mouseY;
   println(mousePos);
-  
+
+
 }
 
 void drawLine() {
